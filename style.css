@@ -1,0 +1,29 @@
+.orange-color{
+    color:rgb(233, 69, 10);
+}
+h1{
+    font-size: 30px;
+    color:gray;
+}
+h3{
+    font-size:20px;
+    color:gray;
+}
+.link-button{
+    text-decoration: none;
+    background-image : linear-gradient(orange,pink);
+    font-weight: 700px;
+    border-radius: 10px;;
+    padding : 10px 40px;
+}
+.half-width{
+    width:50%;
+    padding:2%;
+}
+.half-width img{
+    width:70%;
+}
+.flexibly-settled{
+    display: flex;
+    margin-left: 40px;
+}
